@@ -1,0 +1,2662 @@
+[
+    {
+        "Market Center": "Cereals",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Amphophalus",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Kerala",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Adimali",
+        "Arrivals(in tonnes)": 0.05,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Amphophalus",
+        "Minimum Prices(in Rs/quintals)": 6000,
+        "Maximum Prices(in Rs/quintals)": 6000,
+        "Modal Prices(in Rs/quintals)": 6000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Aroor",
+        "Arrivals(in tonnes)": 0.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Amphophalus",
+        "Minimum Prices(in Rs/quintals)": 5800,
+        "Maximum Prices(in Rs/quintals)": 6000,
+        "Modal Prices(in Rs/quintals)": 5900,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Balarampuram",
+        "Arrivals(in tonnes)": 0.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Amphophalus",
+        "Minimum Prices(in Rs/quintals)": 4000,
+        "Maximum Prices(in Rs/quintals)": 5000,
+        "Modal Prices(in Rs/quintals)": 4000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Chengannur",
+        "Arrivals(in tonnes)": 0.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 5000,
+        "Maximum Prices(in Rs/quintals)": 5300,
+        "Modal Prices(in Rs/quintals)": 5200,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Ernakulam",
+        "Arrivals(in tonnes)": 4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Amphophalus",
+        "Minimum Prices(in Rs/quintals)": 4400,
+        "Maximum Prices(in Rs/quintals)": 5300,
+        "Modal Prices(in Rs/quintals)": 4900,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Harippad",
+        "Arrivals(in tonnes)": 0.6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 6000,
+        "Maximum Prices(in Rs/quintals)": 6500,
+        "Modal Prices(in Rs/quintals)": 6000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kallachi",
+        "Arrivals(in tonnes)": 0.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Amphophalus",
+        "Minimum Prices(in Rs/quintals)": 5200,
+        "Maximum Prices(in Rs/quintals)": 5600,
+        "Modal Prices(in Rs/quintals)": 5400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kayamkulam",
+        "Arrivals(in tonnes)": 2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 5400,
+        "Maximum Prices(in Rs/quintals)": 5600,
+        "Modal Prices(in Rs/quintals)": 5500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kondotty",
+        "Arrivals(in tonnes)": 0.25,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 4900,
+        "Maximum Prices(in Rs/quintals)": 5100,
+        "Modal Prices(in Rs/quintals)": 5000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mannar",
+        "Arrivals(in tonnes)": 0.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 6000,
+        "Maximum Prices(in Rs/quintals)": 6200,
+        "Modal Prices(in Rs/quintals)": 6100,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mukkom",
+        "Arrivals(in tonnes)": 0.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Amphophalus",
+        "Minimum Prices(in Rs/quintals)": 6700,
+        "Maximum Prices(in Rs/quintals)": 7000,
+        "Modal Prices(in Rs/quintals)": 6800,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Neeleswaram",
+        "Arrivals(in tonnes)": 0.9,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 5800,
+        "Maximum Prices(in Rs/quintals)": 6200,
+        "Modal Prices(in Rs/quintals)": 6000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "North Paravur",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Amphophalus",
+        "Minimum Prices(in Rs/quintals)": 5300,
+        "Maximum Prices(in Rs/quintals)": 6000,
+        "Modal Prices(in Rs/quintals)": 5500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Palayam",
+        "Arrivals(in tonnes)": 10,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 4700,
+        "Maximum Prices(in Rs/quintals)": 4700,
+        "Modal Prices(in Rs/quintals)": 4700,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Perambra",
+        "Arrivals(in tonnes)": 0.1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Amphophalus",
+        "Minimum Prices(in Rs/quintals)": 6000,
+        "Maximum Prices(in Rs/quintals)": 6500,
+        "Modal Prices(in Rs/quintals)": 6200,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Perinthalmanna",
+        "Arrivals(in tonnes)": 6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Amphophalus",
+        "Minimum Prices(in Rs/quintals)": 4300,
+        "Maximum Prices(in Rs/quintals)": 5300,
+        "Modal Prices(in Rs/quintals)": 5000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Piravam",
+        "Arrivals(in tonnes)": 0.6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 5000,
+        "Maximum Prices(in Rs/quintals)": 7000,
+        "Modal Prices(in Rs/quintals)": 6000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Pothencode",
+        "Arrivals(in tonnes)": 0.65,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 52000,
+        "Maximum Prices(in Rs/quintals)": 52080,
+        "Modal Prices(in Rs/quintals)": 52040,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Quilandy",
+        "Arrivals(in tonnes)": 0.57,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 5400,
+        "Maximum Prices(in Rs/quintals)": 5500,
+        "Modal Prices(in Rs/quintals)": 5400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Thrippunithura",
+        "Arrivals(in tonnes)": 2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Amphophalus",
+        "Minimum Prices(in Rs/quintals)": 5500,
+        "Maximum Prices(in Rs/quintals)": 7000,
+        "Modal Prices(in Rs/quintals)": 5700,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Punjab",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Nawan Shahar(Subzi Mandi)",
+        "Arrivals(in tonnes)": 0.03,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 6000,
+        "Maximum Prices(in Rs/quintals)": 6500,
+        "Modal Prices(in Rs/quintals)": 6300,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Bajra(Pearl Millet/Cumbu)",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Gujarat",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Amreli",
+        "Arrivals(in tonnes)": 0.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 1755,
+        "Maximum Prices(in Rs/quintals)": 2505,
+        "Modal Prices(in Rs/quintals)": 2505,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Bhavnagar",
+        "Arrivals(in tonnes)": 0.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 2325,
+        "Maximum Prices(in Rs/quintals)": 2990,
+        "Modal Prices(in Rs/quintals)": 2660,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Borsad",
+        "Arrivals(in tonnes)": 3.1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2700,
+        "Maximum Prices(in Rs/quintals)": 2775,
+        "Modal Prices(in Rs/quintals)": 2737.5,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Deesa",
+        "Arrivals(in tonnes)": 13.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2755,
+        "Maximum Prices(in Rs/quintals)": 3160,
+        "Modal Prices(in Rs/quintals)": 3025,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Deesa(Bhildi)",
+        "Arrivals(in tonnes)": 14,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2650,
+        "Maximum Prices(in Rs/quintals)": 3115,
+        "Modal Prices(in Rs/quintals)": 2950,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Dehgam",
+        "Arrivals(in tonnes)": 3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2700,
+        "Maximum Prices(in Rs/quintals)": 2895,
+        "Modal Prices(in Rs/quintals)": 2797,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Dehgam(Rekhiyal)",
+        "Arrivals(in tonnes)": 0.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2650,
+        "Maximum Prices(in Rs/quintals)": 2800,
+        "Modal Prices(in Rs/quintals)": 2725,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Dhanera",
+        "Arrivals(in tonnes)": 10.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2630,
+        "Maximum Prices(in Rs/quintals)": 2875,
+        "Modal Prices(in Rs/quintals)": 2770,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2605,
+        "Maximum Prices(in Rs/quintals)": 3155,
+        "Modal Prices(in Rs/quintals)": 2880,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Diyodar",
+        "Arrivals(in tonnes)": 3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2900,
+        "Maximum Prices(in Rs/quintals)": 2975,
+        "Modal Prices(in Rs/quintals)": 2937,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jambusar",
+        "Arrivals(in tonnes)": 0.1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2200,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jambusar(Kaavi)",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2200,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jamnagar",
+        "Arrivals(in tonnes)": 0.9,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2850,
+        "Modal Prices(in Rs/quintals)": 2675,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jasdan",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 3000,
+        "Modal Prices(in Rs/quintals)": 2650,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kadi",
+        "Arrivals(in tonnes)": 0.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2520,
+        "Maximum Prices(in Rs/quintals)": 2695,
+        "Modal Prices(in Rs/quintals)": 2625,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Khambhat(Grain Market)",
+        "Arrivals(in tonnes)": 0.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2400,
+        "Maximum Prices(in Rs/quintals)": 2900,
+        "Modal Prices(in Rs/quintals)": 2700,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mahuva(Station Road)",
+        "Arrivals(in tonnes)": 13.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2255,
+        "Maximum Prices(in Rs/quintals)": 3375,
+        "Modal Prices(in Rs/quintals)": 2815,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mehsana",
+        "Arrivals(in tonnes)": 0.3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 2565,
+        "Maximum Prices(in Rs/quintals)": 2755,
+        "Modal Prices(in Rs/quintals)": 2650,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mehsana(Jornang)",
+        "Arrivals(in tonnes)": 0.1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 1800,
+        "Maximum Prices(in Rs/quintals)": 1800,
+        "Modal Prices(in Rs/quintals)": 1800,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Palanpur",
+        "Arrivals(in tonnes)": 4.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2650,
+        "Maximum Prices(in Rs/quintals)": 2925,
+        "Modal Prices(in Rs/quintals)": 2787,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Panthawada",
+        "Arrivals(in tonnes)": 2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2775,
+        "Modal Prices(in Rs/quintals)": 2650,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Rajkot",
+        "Arrivals(in tonnes)": 1.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2250,
+        "Maximum Prices(in Rs/quintals)": 2850,
+        "Modal Prices(in Rs/quintals)": 2500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Siddhpur",
+        "Arrivals(in tonnes)": 1.61,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 2940,
+        "Modal Prices(in Rs/quintals)": 2470,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Taleja",
+        "Arrivals(in tonnes)": 8.28,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 2110,
+        "Maximum Prices(in Rs/quintals)": 3255,
+        "Modal Prices(in Rs/quintals)": 2685,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Talod",
+        "Arrivals(in tonnes)": 4.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2850,
+        "Maximum Prices(in Rs/quintals)": 3150,
+        "Modal Prices(in Rs/quintals)": 3000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Thara",
+        "Arrivals(in tonnes)": 2.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2725,
+        "Maximum Prices(in Rs/quintals)": 2850,
+        "Modal Prices(in Rs/quintals)": 2787.5,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Thara(Shihori)",
+        "Arrivals(in tonnes)": 1.1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2700,
+        "Maximum Prices(in Rs/quintals)": 2820,
+        "Modal Prices(in Rs/quintals)": 2760,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Tharad",
+        "Arrivals(in tonnes)": 1.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2725,
+        "Maximum Prices(in Rs/quintals)": 2900,
+        "Modal Prices(in Rs/quintals)": 2815,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Tharad(Rah)",
+        "Arrivals(in tonnes)": 2.9,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2700,
+        "Maximum Prices(in Rs/quintals)": 2850,
+        "Modal Prices(in Rs/quintals)": 2800,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Umreth",
+        "Arrivals(in tonnes)": 0.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2800,
+        "Maximum Prices(in Rs/quintals)": 2825,
+        "Modal Prices(in Rs/quintals)": 2810,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Vadgam",
+        "Arrivals(in tonnes)": 2.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2675,
+        "Modal Prices(in Rs/quintals)": 2675,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Vankaner",
+        "Arrivals(in tonnes)": 0.3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2730,
+        "Modal Prices(in Rs/quintals)": 2650,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Visnagar",
+        "Arrivals(in tonnes)": 6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2350,
+        "Maximum Prices(in Rs/quintals)": 2815,
+        "Modal Prices(in Rs/quintals)": 2582,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Haryana",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Ateli",
+        "Arrivals(in tonnes)": 11.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2400,
+        "Maximum Prices(in Rs/quintals)": 2500,
+        "Modal Prices(in Rs/quintals)": 2500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Karnataka",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Bellary",
+        "Arrivals(in tonnes)": 2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 1466,
+        "Maximum Prices(in Rs/quintals)": 2755,
+        "Modal Prices(in Rs/quintals)": 2423,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Bijapur",
+        "Arrivals(in tonnes)": 5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2200,
+        "Maximum Prices(in Rs/quintals)": 2400,
+        "Modal Prices(in Rs/quintals)": 2300,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kustagi",
+        "Arrivals(in tonnes)": 63,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2230,
+        "Maximum Prices(in Rs/quintals)": 2230,
+        "Modal Prices(in Rs/quintals)": 2230,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Lingasugur",
+        "Arrivals(in tonnes)": 163,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2208,
+        "Maximum Prices(in Rs/quintals)": 2500,
+        "Modal Prices(in Rs/quintals)": 2230,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Madhya Pradesh",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Morena",
+        "Arrivals(in tonnes)": 7,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Millet",
+        "Minimum Prices(in Rs/quintals)": 2300,
+        "Maximum Prices(in Rs/quintals)": 2302,
+        "Modal Prices(in Rs/quintals)": 2302,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Sabalgarh",
+        "Arrivals(in tonnes)": 25,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2275,
+        "Maximum Prices(in Rs/quintals)": 2300,
+        "Modal Prices(in Rs/quintals)": 2300,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Vijaypur",
+        "Arrivals(in tonnes)": 24.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Millet",
+        "Minimum Prices(in Rs/quintals)": 2100,
+        "Maximum Prices(in Rs/quintals)": 2130,
+        "Modal Prices(in Rs/quintals)": 2130,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Maharashtra",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Ahmednagar",
+        "Arrivals(in tonnes)": 2.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 3100,
+        "Maximum Prices(in Rs/quintals)": 3300,
+        "Modal Prices(in Rs/quintals)": 3200,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2200,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Amalner",
+        "Arrivals(in tonnes)": 3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2765,
+        "Maximum Prices(in Rs/quintals)": 2955,
+        "Modal Prices(in Rs/quintals)": 2955,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Amarawati",
+        "Arrivals(in tonnes)": 0.3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2800,
+        "Maximum Prices(in Rs/quintals)": 3100,
+        "Modal Prices(in Rs/quintals)": 2950,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Chalisgaon",
+        "Arrivals(in tonnes)": 7,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2650,
+        "Maximum Prices(in Rs/quintals)": 3225,
+        "Modal Prices(in Rs/quintals)": 2850,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Deoulgaon Raja",
+        "Arrivals(in tonnes)": 0.1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2500,
+        "Modal Prices(in Rs/quintals)": 2500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Devala",
+        "Arrivals(in tonnes)": 0.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2700,
+        "Maximum Prices(in Rs/quintals)": 2855,
+        "Modal Prices(in Rs/quintals)": 2700,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Dhule",
+        "Arrivals(in tonnes)": 0.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2625,
+        "Maximum Prices(in Rs/quintals)": 3005,
+        "Modal Prices(in Rs/quintals)": 2700,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2130,
+        "Maximum Prices(in Rs/quintals)": 2624,
+        "Modal Prices(in Rs/quintals)": 2200,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Dound",
+        "Arrivals(in tonnes)": 0.3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2400,
+        "Maximum Prices(in Rs/quintals)": 2500,
+        "Modal Prices(in Rs/quintals)": 2500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jamkhed",
+        "Arrivals(in tonnes)": 0.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1600,
+        "Maximum Prices(in Rs/quintals)": 1900,
+        "Modal Prices(in Rs/quintals)": 1750,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Karjat",
+        "Arrivals(in tonnes)": 0.3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Lasalgaon",
+        "Arrivals(in tonnes)": 0.1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 2401,
+        "Modal Prices(in Rs/quintals)": 2401,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mumbai",
+        "Arrivals(in tonnes)": 23.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2800,
+        "Maximum Prices(in Rs/quintals)": 4500,
+        "Modal Prices(in Rs/quintals)": 3900,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Nandgaon",
+        "Arrivals(in tonnes)": 3.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2625,
+        "Maximum Prices(in Rs/quintals)": 3050,
+        "Modal Prices(in Rs/quintals)": 2650,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Paithan",
+        "Arrivals(in tonnes)": 0.1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2800,
+        "Maximum Prices(in Rs/quintals)": 2800,
+        "Modal Prices(in Rs/quintals)": 2800,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Pune",
+        "Arrivals(in tonnes)": 40.7,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 3200,
+        "Maximum Prices(in Rs/quintals)": 3500,
+        "Modal Prices(in Rs/quintals)": 3350,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Shevgaon(Bodhegaon)",
+        "Arrivals(in tonnes)": 0.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2650,
+        "Maximum Prices(in Rs/quintals)": 2700,
+        "Modal Prices(in Rs/quintals)": 2650,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Ulhasnagar",
+        "Arrivals(in tonnes)": 13,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2800,
+        "Maximum Prices(in Rs/quintals)": 3200,
+        "Modal Prices(in Rs/quintals)": 3000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Rajasthan",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Dooni",
+        "Arrivals(in tonnes)": 0.9,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Bold",
+        "Minimum Prices(in Rs/quintals)": 2299,
+        "Maximum Prices(in Rs/quintals)": 2301,
+        "Modal Prices(in Rs/quintals)": 2300,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jodhpur (Grain)",
+        "Arrivals(in tonnes)": 5.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2350,
+        "Maximum Prices(in Rs/quintals)": 2850,
+        "Modal Prices(in Rs/quintals)": 2600,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Nagaur(Jayal)",
+        "Arrivals(in tonnes)": 3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1800,
+        "Maximum Prices(in Rs/quintals)": 2800,
+        "Modal Prices(in Rs/quintals)": 2400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Palsana",
+        "Arrivals(in tonnes)": 27.75,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Bold",
+        "Minimum Prices(in Rs/quintals)": 2300,
+        "Maximum Prices(in Rs/quintals)": 2380,
+        "Modal Prices(in Rs/quintals)": 2330,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Surajgarh",
+        "Arrivals(in tonnes)": 30.3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2580,
+        "Maximum Prices(in Rs/quintals)": 2580,
+        "Modal Prices(in Rs/quintals)": 2580,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Tamil Nadu",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Kallakurichi",
+        "Arrivals(in tonnes)": 3.16,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2413,
+        "Maximum Prices(in Rs/quintals)": 2777,
+        "Modal Prices(in Rs/quintals)": 2595,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Manalurpettai",
+        "Arrivals(in tonnes)": 1.67,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2142,
+        "Maximum Prices(in Rs/quintals)": 2145,
+        "Modal Prices(in Rs/quintals)": 2145,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Thirukovilur",
+        "Arrivals(in tonnes)": 9.75,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2419,
+        "Maximum Prices(in Rs/quintals)": 2511,
+        "Modal Prices(in Rs/quintals)": 2493,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Vikkiravandi",
+        "Arrivals(in tonnes)": 1.98,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2260,
+        "Maximum Prices(in Rs/quintals)": 2475,
+        "Modal Prices(in Rs/quintals)": 2455,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Villupuram",
+        "Arrivals(in tonnes)": 2.9,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2450,
+        "Maximum Prices(in Rs/quintals)": 2465,
+        "Modal Prices(in Rs/quintals)": 2458,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Uttar Pradesh",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Achalda",
+        "Arrivals(in tonnes)": 2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2700,
+        "Modal Prices(in Rs/quintals)": 2625,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Aliganj",
+        "Arrivals(in tonnes)": 2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2310,
+        "Maximum Prices(in Rs/quintals)": 2325,
+        "Modal Prices(in Rs/quintals)": 2315,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Aligarh",
+        "Arrivals(in tonnes)": 16,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2340,
+        "Maximum Prices(in Rs/quintals)": 2380,
+        "Modal Prices(in Rs/quintals)": 2360,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Auraiya",
+        "Arrivals(in tonnes)": 95,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2300,
+        "Maximum Prices(in Rs/quintals)": 2450,
+        "Modal Prices(in Rs/quintals)": 2400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Badayoun",
+        "Arrivals(in tonnes)": 530.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2410,
+        "Maximum Prices(in Rs/quintals)": 2490,
+        "Modal Prices(in Rs/quintals)": 2450,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Choubepur",
+        "Arrivals(in tonnes)": 2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2570,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Divai",
+        "Arrivals(in tonnes)": 0.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2625,
+        "Maximum Prices(in Rs/quintals)": 2635,
+        "Modal Prices(in Rs/quintals)": 2630,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Fatehabad",
+        "Arrivals(in tonnes)": 0.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2200,
+        "Maximum Prices(in Rs/quintals)": 2350,
+        "Modal Prices(in Rs/quintals)": 2250,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Firozabad",
+        "Arrivals(in tonnes)": 44,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2375,
+        "Maximum Prices(in Rs/quintals)": 2425,
+        "Modal Prices(in Rs/quintals)": 2410,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Haathras",
+        "Arrivals(in tonnes)": 80,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2300,
+        "Maximum Prices(in Rs/quintals)": 2440,
+        "Modal Prices(in Rs/quintals)": 2370,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kanpur(Grain)",
+        "Arrivals(in tonnes)": 90,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2575,
+        "Maximum Prices(in Rs/quintals)": 2675,
+        "Modal Prices(in Rs/quintals)": 2625,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Khair",
+        "Arrivals(in tonnes)": 12,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2300,
+        "Maximum Prices(in Rs/quintals)": 2500,
+        "Modal Prices(in Rs/quintals)": 2400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Khairagarh",
+        "Arrivals(in tonnes)": 80,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2200,
+        "Maximum Prices(in Rs/quintals)": 2300,
+        "Modal Prices(in Rs/quintals)": 2250,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mathura",
+        "Arrivals(in tonnes)": 6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2280,
+        "Maximum Prices(in Rs/quintals)": 2350,
+        "Modal Prices(in Rs/quintals)": 2310,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mohamadabad",
+        "Arrivals(in tonnes)": 28.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2510,
+        "Maximum Prices(in Rs/quintals)": 2530,
+        "Modal Prices(in Rs/quintals)": 2520,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Pukharayan",
+        "Arrivals(in tonnes)": 13,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2630,
+        "Maximum Prices(in Rs/quintals)": 2650,
+        "Modal Prices(in Rs/quintals)": 2635,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2620,
+        "Maximum Prices(in Rs/quintals)": 2630,
+        "Modal Prices(in Rs/quintals)": 2625,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Sikandraraau",
+        "Arrivals(in tonnes)": 5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2310,
+        "Maximum Prices(in Rs/quintals)": 2385,
+        "Modal Prices(in Rs/quintals)": 2340,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Tundla",
+        "Arrivals(in tonnes)": 100,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2310,
+        "Maximum Prices(in Rs/quintals)": 2345,
+        "Modal Prices(in Rs/quintals)": 2325,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Ujhani",
+        "Arrivals(in tonnes)": 350,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2350,
+        "Maximum Prices(in Rs/quintals)": 2450,
+        "Modal Prices(in Rs/quintals)": 2400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Uttaripura",
+        "Arrivals(in tonnes)": 4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2575,
+        "Maximum Prices(in Rs/quintals)": 2675,
+        "Modal Prices(in Rs/quintals)": 2625,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Barley (Jau)",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Chattisgarh",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Raigarh",
+        "Arrivals(in tonnes)": 10,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2500,
+        "Modal Prices(in Rs/quintals)": 2500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Madhya Pradesh",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Katni",
+        "Arrivals(in tonnes)": 1.36,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Barley",
+        "Minimum Prices(in Rs/quintals)": 2300,
+        "Maximum Prices(in Rs/quintals)": 2350,
+        "Modal Prices(in Rs/quintals)": 2300,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kolaras",
+        "Arrivals(in tonnes)": 3.14,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Barley",
+        "Minimum Prices(in Rs/quintals)": 2200,
+        "Maximum Prices(in Rs/quintals)": 2200,
+        "Modal Prices(in Rs/quintals)": 2200,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Manasa",
+        "Arrivals(in tonnes)": 5.05,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Barley",
+        "Minimum Prices(in Rs/quintals)": 2261,
+        "Maximum Prices(in Rs/quintals)": 2390,
+        "Modal Prices(in Rs/quintals)": 2281,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Neemuch",
+        "Arrivals(in tonnes)": 23.28,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Barley",
+        "Minimum Prices(in Rs/quintals)": 2351,
+        "Maximum Prices(in Rs/quintals)": 2415,
+        "Modal Prices(in Rs/quintals)": 2381,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Rajnagar",
+        "Arrivals(in tonnes)": 29,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 2000,
+        "Modal Prices(in Rs/quintals)": 2000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Rajasthan",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Chhotisadri",
+        "Arrivals(in tonnes)": 0.7,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Barley-Organic",
+        "Minimum Prices(in Rs/quintals)": 1900,
+        "Maximum Prices(in Rs/quintals)": 2336,
+        "Modal Prices(in Rs/quintals)": 2230,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Nimbahera",
+        "Arrivals(in tonnes)": 30,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2280,
+        "Maximum Prices(in Rs/quintals)": 2431,
+        "Modal Prices(in Rs/quintals)": 2355,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Pratapgarh",
+        "Arrivals(in tonnes)": 160,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Barley-Organic",
+        "Minimum Prices(in Rs/quintals)": 2330,
+        "Maximum Prices(in Rs/quintals)": 2405,
+        "Modal Prices(in Rs/quintals)": 2355,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Uttar Pradesh",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Aligarh",
+        "Arrivals(in tonnes)": 5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2520,
+        "Maximum Prices(in Rs/quintals)": 2560,
+        "Modal Prices(in Rs/quintals)": 2540,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Azamgarh",
+        "Arrivals(in tonnes)": 4.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2475,
+        "Maximum Prices(in Rs/quintals)": 2575,
+        "Modal Prices(in Rs/quintals)": 2530,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Ballia",
+        "Arrivals(in tonnes)": 4.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2520,
+        "Maximum Prices(in Rs/quintals)": 2560,
+        "Modal Prices(in Rs/quintals)": 2540,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Choubepur",
+        "Arrivals(in tonnes)": 1.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2630,
+        "Modal Prices(in Rs/quintals)": 2580,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Firozabad",
+        "Arrivals(in tonnes)": 23.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2565,
+        "Maximum Prices(in Rs/quintals)": 2640,
+        "Modal Prices(in Rs/quintals)": 2590,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Gazipur",
+        "Arrivals(in tonnes)": 0.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2560,
+        "Modal Prices(in Rs/quintals)": 2530,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Ghaziabad",
+        "Arrivals(in tonnes)": 5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2550,
+        "Maximum Prices(in Rs/quintals)": 2570,
+        "Modal Prices(in Rs/quintals)": 2560,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2300,
+        "Maximum Prices(in Rs/quintals)": 2340,
+        "Modal Prices(in Rs/quintals)": 2320,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Gorakhpur",
+        "Arrivals(in tonnes)": 30,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2540,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2565,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jhansi (Grain)",
+        "Arrivals(in tonnes)": 7.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2540,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kanpur(Grain)",
+        "Arrivals(in tonnes)": 50,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2550,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mahoba",
+        "Arrivals(in tonnes)": 11,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2350,
+        "Maximum Prices(in Rs/quintals)": 2480,
+        "Modal Prices(in Rs/quintals)": 2450,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mathura",
+        "Arrivals(in tonnes)": 7,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2560,
+        "Modal Prices(in Rs/quintals)": 2530,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Muskara",
+        "Arrivals(in tonnes)": 5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2300,
+        "Maximum Prices(in Rs/quintals)": 2500,
+        "Modal Prices(in Rs/quintals)": 2400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Muzzafarnagar",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2550,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Raibareilly",
+        "Arrivals(in tonnes)": 0.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2520,
+        "Maximum Prices(in Rs/quintals)": 2560,
+        "Modal Prices(in Rs/quintals)": 2540,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Rasda",
+        "Arrivals(in tonnes)": 1.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2450,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2520,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Robertsganj",
+        "Arrivals(in tonnes)": 2.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2360,
+        "Maximum Prices(in Rs/quintals)": 2515,
+        "Modal Prices(in Rs/quintals)": 2445,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Saharanpur",
+        "Arrivals(in tonnes)": 3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2450,
+        "Maximum Prices(in Rs/quintals)": 2700,
+        "Modal Prices(in Rs/quintals)": 2600,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Shamli",
+        "Arrivals(in tonnes)": 3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2550,
+        "Maximum Prices(in Rs/quintals)": 2610,
+        "Modal Prices(in Rs/quintals)": 2580,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Tundla",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Deshi",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2525,
+        "Modal Prices(in Rs/quintals)": 2515,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Uttaripura",
+        "Arrivals(in tonnes)": 3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2560,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Varanasi",
+        "Arrivals(in tonnes)": 12,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Dara",
+        "Minimum Prices(in Rs/quintals)": 2515,
+        "Maximum Prices(in Rs/quintals)": 2585,
+        "Modal Prices(in Rs/quintals)": 2550,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Foxtail Millet(Navane)",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Karnataka",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Bellary",
+        "Arrivals(in tonnes)": 3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Navane Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2339,
+        "Maximum Prices(in Rs/quintals)": 2811,
+        "Modal Prices(in Rs/quintals)": 2723,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jowar(Sorghum)",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Andhra Pradesh",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Nandyal",
+        "Arrivals(in tonnes)": 2088,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar (Yellow)",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 2100,
+        "Modal Prices(in Rs/quintals)": 2100,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Gujarat",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Amreli",
+        "Arrivals(in tonnes)": 1.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 3850,
+        "Maximum Prices(in Rs/quintals)": 5300,
+        "Modal Prices(in Rs/quintals)": 4280,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Botad",
+        "Arrivals(in tonnes)": 10.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2355,
+        "Maximum Prices(in Rs/quintals)": 5225,
+        "Modal Prices(in Rs/quintals)": 3800,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jambusar",
+        "Arrivals(in tonnes)": 0.1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 3100,
+        "Maximum Prices(in Rs/quintals)": 3500,
+        "Modal Prices(in Rs/quintals)": 3300,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jambusar(Kaavi)",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 3000,
+        "Maximum Prices(in Rs/quintals)": 3500,
+        "Modal Prices(in Rs/quintals)": 3300,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jamnagar",
+        "Arrivals(in tonnes)": 0.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 4175,
+        "Maximum Prices(in Rs/quintals)": 4350,
+        "Modal Prices(in Rs/quintals)": 4263,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jasdan",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 5035,
+        "Modal Prices(in Rs/quintals)": 4755,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mahuva(Station Road)",
+        "Arrivals(in tonnes)": 10.6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1940,
+        "Maximum Prices(in Rs/quintals)": 4580,
+        "Modal Prices(in Rs/quintals)": 3260,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Palanpur",
+        "Arrivals(in tonnes)": 3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 4500,
+        "Maximum Prices(in Rs/quintals)": 5625,
+        "Modal Prices(in Rs/quintals)": 5062,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Porbandar",
+        "Arrivals(in tonnes)": 2.3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 4150,
+        "Maximum Prices(in Rs/quintals)": 4250,
+        "Modal Prices(in Rs/quintals)": 4200,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Rajkot",
+        "Arrivals(in tonnes)": 64,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 3500,
+        "Maximum Prices(in Rs/quintals)": 5000,
+        "Modal Prices(in Rs/quintals)": 4300,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Jowar (Yellow)",
+        "Minimum Prices(in Rs/quintals)": 1650,
+        "Maximum Prices(in Rs/quintals)": 2400,
+        "Modal Prices(in Rs/quintals)": 2000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Siddhpur",
+        "Arrivals(in tonnes)": 0.95,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 5055,
+        "Maximum Prices(in Rs/quintals)": 5655,
+        "Modal Prices(in Rs/quintals)": 5355,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Taleja",
+        "Arrivals(in tonnes)": 1.02,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 1555,
+        "Maximum Prices(in Rs/quintals)": 2560,
+        "Modal Prices(in Rs/quintals)": 2060,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Thara",
+        "Arrivals(in tonnes)": 1.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 3625,
+        "Maximum Prices(in Rs/quintals)": 5000,
+        "Modal Prices(in Rs/quintals)": 4312.5,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Vadali",
+        "Arrivals(in tonnes)": 0.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 4250,
+        "Maximum Prices(in Rs/quintals)": 4605,
+        "Modal Prices(in Rs/quintals)": 4427,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Vankaner",
+        "Arrivals(in tonnes)": 3.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 3500,
+        "Maximum Prices(in Rs/quintals)": 4740,
+        "Modal Prices(in Rs/quintals)": 4400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Karnataka",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Bellary",
+        "Arrivals(in tonnes)": 18,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 1866,
+        "Maximum Prices(in Rs/quintals)": 2866,
+        "Modal Prices(in Rs/quintals)": 2454,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Hubli (Amaragol)",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 2450,
+        "Maximum Prices(in Rs/quintals)": 2650,
+        "Modal Prices(in Rs/quintals)": 2500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Laxmeshwar",
+        "Arrivals(in tonnes)": 2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 1919,
+        "Maximum Prices(in Rs/quintals)": 2189,
+        "Modal Prices(in Rs/quintals)": 2109,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Lingasugur",
+        "Arrivals(in tonnes)": 20,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 2300,
+        "Maximum Prices(in Rs/quintals)": 2300,
+        "Modal Prices(in Rs/quintals)": 2300,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Shimoga",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 3800,
+        "Modal Prices(in Rs/quintals)": 3150,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Madhya Pradesh",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Khargone",
+        "Arrivals(in tonnes)": 0.37,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar (Yellow)",
+        "Minimum Prices(in Rs/quintals)": 1880,
+        "Maximum Prices(in Rs/quintals)": 1880,
+        "Modal Prices(in Rs/quintals)": 1880,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Lashkar",
+        "Arrivals(in tonnes)": 27.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar (Yellow)",
+        "Minimum Prices(in Rs/quintals)": 2210,
+        "Maximum Prices(in Rs/quintals)": 2230,
+        "Modal Prices(in Rs/quintals)": 2230,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Jowar (Yellow)",
+        "Minimum Prices(in Rs/quintals)": 2190,
+        "Maximum Prices(in Rs/quintals)": 2190,
+        "Modal Prices(in Rs/quintals)": 2190,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Maharashtra",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Ahmednagar",
+        "Arrivals(in tonnes)": 58.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1800,
+        "Maximum Prices(in Rs/quintals)": 2600,
+        "Modal Prices(in Rs/quintals)": 2200,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Akola",
+        "Arrivals(in tonnes)": 3.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 2055,
+        "Modal Prices(in Rs/quintals)": 2025,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Amalner",
+        "Arrivals(in tonnes)": 5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2200,
+        "Maximum Prices(in Rs/quintals)": 2450,
+        "Modal Prices(in Rs/quintals)": 2450,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2200,
+        "Maximum Prices(in Rs/quintals)": 2450,
+        "Modal Prices(in Rs/quintals)": 2450,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Amarawati",
+        "Arrivals(in tonnes)": 0.3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1800,
+        "Maximum Prices(in Rs/quintals)": 2100,
+        "Modal Prices(in Rs/quintals)": 1950,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Chalisgaon",
+        "Arrivals(in tonnes)": 10,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 1800,
+        "Maximum Prices(in Rs/quintals)": 2161,
+        "Modal Prices(in Rs/quintals)": 2000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Chattrapati Sambhajinagar",
+        "Arrivals(in tonnes)": 24,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 3500,
+        "Maximum Prices(in Rs/quintals)": 3556,
+        "Modal Prices(in Rs/quintals)": 3528,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 3400,
+        "Modal Prices(in Rs/quintals)": 2700,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Chopada",
+        "Arrivals(in tonnes)": 20,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2401,
+        "Maximum Prices(in Rs/quintals)": 2976,
+        "Modal Prices(in Rs/quintals)": 2552,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Deoulgaon Raja",
+        "Arrivals(in tonnes)": 2.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1900,
+        "Maximum Prices(in Rs/quintals)": 2150,
+        "Modal Prices(in Rs/quintals)": 2000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Dhule",
+        "Arrivals(in tonnes)": 3.4,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 1750,
+        "Maximum Prices(in Rs/quintals)": 2100,
+        "Modal Prices(in Rs/quintals)": 2000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1950,
+        "Maximum Prices(in Rs/quintals)": 1950,
+        "Modal Prices(in Rs/quintals)": 1950,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Dound",
+        "Arrivals(in tonnes)": 0.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Jowar ( White)",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 2000,
+        "Modal Prices(in Rs/quintals)": 2000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jalgaon",
+        "Arrivals(in tonnes)": 7.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2500,
+        "Maximum Prices(in Rs/quintals)": 2500,
+        "Modal Prices(in Rs/quintals)": 2500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jalgaon(Masawat)",
+        "Arrivals(in tonnes)": 2.6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2171,
+        "Maximum Prices(in Rs/quintals)": 2171,
+        "Modal Prices(in Rs/quintals)": 2171,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jamkhed",
+        "Arrivals(in tonnes)": 129.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 3500,
+        "Maximum Prices(in Rs/quintals)": 4200,
+        "Modal Prices(in Rs/quintals)": 3850,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2600,
+        "Maximum Prices(in Rs/quintals)": 3400,
+        "Modal Prices(in Rs/quintals)": 3000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Karjat",
+        "Arrivals(in tonnes)": 14.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 3420,
+        "Modal Prices(in Rs/quintals)": 2900,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Karmala",
+        "Arrivals(in tonnes)": 71.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 3900,
+        "Modal Prices(in Rs/quintals)": 3000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Lasalgaon",
+        "Arrivals(in tonnes)": 0.7,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1801,
+        "Maximum Prices(in Rs/quintals)": 1926,
+        "Modal Prices(in Rs/quintals)": 1926,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Malkapur",
+        "Arrivals(in tonnes)": 2.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1800,
+        "Maximum Prices(in Rs/quintals)": 2305,
+        "Modal Prices(in Rs/quintals)": 1915,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mangal Wedha",
+        "Arrivals(in tonnes)": 20,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 3400,
+        "Modal Prices(in Rs/quintals)": 2800,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mumbai",
+        "Arrivals(in tonnes)": 151.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2700,
+        "Maximum Prices(in Rs/quintals)": 6000,
+        "Modal Prices(in Rs/quintals)": 5000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Nandgaon",
+        "Arrivals(in tonnes)": 2.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2005,
+        "Maximum Prices(in Rs/quintals)": 2502,
+        "Modal Prices(in Rs/quintals)": 2250,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Nandura",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1711,
+        "Maximum Prices(in Rs/quintals)": 1920,
+        "Modal Prices(in Rs/quintals)": 1920,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Pune",
+        "Arrivals(in tonnes)": 72,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 4500,
+        "Maximum Prices(in Rs/quintals)": 5600,
+        "Modal Prices(in Rs/quintals)": 5050,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Pusad",
+        "Arrivals(in tonnes)": 5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1901,
+        "Maximum Prices(in Rs/quintals)": 2426,
+        "Modal Prices(in Rs/quintals)": 2167,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Rahata",
+        "Arrivals(in tonnes)": 1.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1930,
+        "Maximum Prices(in Rs/quintals)": 1978,
+        "Modal Prices(in Rs/quintals)": 1950,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Solapur",
+        "Arrivals(in tonnes)": 4.6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2000,
+        "Maximum Prices(in Rs/quintals)": 2520,
+        "Modal Prices(in Rs/quintals)": 2300,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Washim",
+        "Arrivals(in tonnes)": 0.6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 1570,
+        "Maximum Prices(in Rs/quintals)": 1860,
+        "Modal Prices(in Rs/quintals)": 1700,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Uttar Pradesh",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Kanpur(Grain)",
+        "Arrivals(in tonnes)": 90,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "White",
+        "Minimum Prices(in Rs/quintals)": 3321,
+        "Maximum Prices(in Rs/quintals)": 3421,
+        "Modal Prices(in Rs/quintals)": 3371,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Varipaal",
+        "Arrivals(in tonnes)": 4.6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 2400,
+        "Maximum Prices(in Rs/quintals)": 2400,
+        "Modal Prices(in Rs/quintals)": 2400,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kodo Millet(Varagu)",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Madhya Pradesh",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Anuppur",
+        "Arrivals(in tonnes)": 25.8,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Kondo",
+        "Minimum Prices(in Rs/quintals)": 2275,
+        "Maximum Prices(in Rs/quintals)": 2275,
+        "Modal Prices(in Rs/quintals)": 2275,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Baikunthpur",
+        "Arrivals(in tonnes)": 23.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Kondo",
+        "Minimum Prices(in Rs/quintals)": 2225,
+        "Maximum Prices(in Rs/quintals)": 2225,
+        "Modal Prices(in Rs/quintals)": 2225,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Jaithari",
+        "Arrivals(in tonnes)": 2.58,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Kondo",
+        "Minimum Prices(in Rs/quintals)": 2200,
+        "Maximum Prices(in Rs/quintals)": 2200,
+        "Modal Prices(in Rs/quintals)": 2200,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Katni",
+        "Arrivals(in tonnes)": 14.05,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Kondo",
+        "Minimum Prices(in Rs/quintals)": 2313,
+        "Maximum Prices(in Rs/quintals)": 2313,
+        "Modal Prices(in Rs/quintals)": 2313,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mohgaon",
+        "Arrivals(in tonnes)": 19,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Kondo",
+        "Minimum Prices(in Rs/quintals)": 2426,
+        "Maximum Prices(in Rs/quintals)": 2426,
+        "Modal Prices(in Rs/quintals)": 2426,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Nagod",
+        "Arrivals(in tonnes)": 26.49,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Kondo",
+        "Minimum Prices(in Rs/quintals)": 2050,
+        "Maximum Prices(in Rs/quintals)": 2100,
+        "Modal Prices(in Rs/quintals)": 2100,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Umariya",
+        "Arrivals(in tonnes)": 17.5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Kondo",
+        "Minimum Prices(in Rs/quintals)": 2100,
+        "Maximum Prices(in Rs/quintals)": 2100,
+        "Modal Prices(in Rs/quintals)": 2100,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kutki",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Madhya Pradesh",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Bichhiya",
+        "Arrivals(in tonnes)": 7,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Kutki",
+        "Minimum Prices(in Rs/quintals)": 3200,
+        "Maximum Prices(in Rs/quintals)": 3200,
+        "Modal Prices(in Rs/quintals)": 3200,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Gorakhpur",
+        "Arrivals(in tonnes)": 13,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Kutki",
+        "Minimum Prices(in Rs/quintals)": 3100,
+        "Maximum Prices(in Rs/quintals)": 3100,
+        "Modal Prices(in Rs/quintals)": 3100,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Mohgaon",
+        "Arrivals(in tonnes)": 28.6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Kutki",
+        "Minimum Prices(in Rs/quintals)": 3000,
+        "Maximum Prices(in Rs/quintals)": 3001,
+        "Modal Prices(in Rs/quintals)": 3000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Ragi (Finger Millet)",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Karnataka",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Arasikere",
+        "Arrivals(in tonnes)": 92,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 2700,
+        "Maximum Prices(in Rs/quintals)": 3100,
+        "Modal Prices(in Rs/quintals)": 2700,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Davangere",
+        "Arrivals(in tonnes)": 245,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 2759,
+        "Maximum Prices(in Rs/quintals)": 3316,
+        "Modal Prices(in Rs/quintals)": 3080,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Harappana Halli",
+        "Arrivals(in tonnes)": 161,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Local",
+        "Minimum Prices(in Rs/quintals)": 3100,
+        "Maximum Prices(in Rs/quintals)": 3340,
+        "Modal Prices(in Rs/quintals)": 3295,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kottur",
+        "Arrivals(in tonnes)": 61,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Hybrid",
+        "Minimum Prices(in Rs/quintals)": 2929,
+        "Maximum Prices(in Rs/quintals)": 3309,
+        "Modal Prices(in Rs/quintals)": 3115,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Shimoga",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Red",
+        "Minimum Prices(in Rs/quintals)": 3500,
+        "Maximum Prices(in Rs/quintals)": 4300,
+        "Modal Prices(in Rs/quintals)": 3900,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Maharashtra",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Pune",
+        "Arrivals(in tonnes)": 0.3,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 4300,
+        "Maximum Prices(in Rs/quintals)": 5400,
+        "Modal Prices(in Rs/quintals)": 4850,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Tamil Nadu",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Thalaivasal",
+        "Arrivals(in tonnes)": 16.08,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 3250,
+        "Maximum Prices(in Rs/quintals)": 3740,
+        "Modal Prices(in Rs/quintals)": 3600,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Vikkiravandi",
+        "Arrivals(in tonnes)": 0.54,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 2909,
+        "Maximum Prices(in Rs/quintals)": 3039,
+        "Modal Prices(in Rs/quintals)": 3000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Beverages",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Cocoa",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Kerala",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Kattappana",
+        "Arrivals(in tonnes)": 3.6,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 18000,
+        "Maximum Prices(in Rs/quintals)": 18000,
+        "Modal Prices(in Rs/quintals)": 18000,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Coffee",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Kerala",
+        "Arrivals(in tonnes)": "",
+        "Unit of Arrivals": "",
+        "Variety": "",
+        "Minimum Prices(in Rs/quintals)": "",
+        "Maximum Prices(in Rs/quintals)": "",
+        "Modal Prices(in Rs/quintals)": "",
+        "Unit of Price": ""
+    },
+    {
+        "Market Center": "Kalpetta",
+        "Arrivals(in tonnes)": 70,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 25700,
+        "Maximum Prices(in Rs/quintals)": 25800,
+        "Modal Prices(in Rs/quintals)": 25800,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Kattappana",
+        "Arrivals(in tonnes)": 4.7,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 46000,
+        "Maximum Prices(in Rs/quintals)": 47500,
+        "Modal Prices(in Rs/quintals)": 47500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Manathavady",
+        "Arrivals(in tonnes)": 3.2,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 25500,
+        "Maximum Prices(in Rs/quintals)": 25700,
+        "Modal Prices(in Rs/quintals)": 25500,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Pulpally",
+        "Arrivals(in tonnes)": 5,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 27000,
+        "Maximum Prices(in Rs/quintals)": 27200,
+        "Modal Prices(in Rs/quintals)": 27100,
+        "Unit of Price": "Rs/Quintal"
+    },
+    {
+        "Market Center": "Sultan bathery",
+        "Arrivals(in tonnes)": 1,
+        "Unit of Arrivals": "Tonnes",
+        "Variety": "Other",
+        "Minimum Prices(in Rs/quintals)": 27800,
+        "Maximum Prices(in Rs/quintals)": 27800,
+        "Modal Prices(in Rs/quintals)": 27800,
+        "Unit of Price": "Rs/Quintal"
+    }
+]
